@@ -4,3 +4,5 @@ Features:
 
 - Easy/Classic/Hard difficulties
 - Change difficulty
+
+[Play here](https://tombannister-94.github.io/twister-spinner/)
